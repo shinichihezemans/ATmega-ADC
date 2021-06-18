@@ -1,5 +1,5 @@
 # ATmega-ADC
-Small library to read a multiple analog value's. 
+Small library to read multiple analog value's. 
 This Library shines in reading a series of anolog values.
 
 ## Usage
